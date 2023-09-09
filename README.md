@@ -8,7 +8,4 @@ Be on your way now
 Used clone to bring file to local system
 Also made a sample html file
 
-## Local Development 
-1. Open index.html in your browser 
-
-
+hello 
